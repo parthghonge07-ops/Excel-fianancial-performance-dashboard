@@ -2,7 +2,7 @@
 
 # Financial Performance Overview 2022-2023
 
-An interactive Excel dashboard that analyzes company revenue, expenses and profit across regions, product lines, departments and payment methods.
+An Excel dashboard that analyzes company revenue, expenses and profit across regions, product lines, departments and payment methods.
 
 ![Dashboard](Dashboard.png)
 
